@@ -1,0 +1,43 @@
+	HYDROLASE                               27-SEP-00   1E8L              
+NMR SOLUTION STRUCTURE OF HEN LYSOZYME                                
+-----------------------------------------------------------------------
+Amino acid	Total Number(N)	
+Alanine		12		
+Arginine	11		
+Asparagine	14		
+Aspartic Acid	7		
+Cysteine	8		
+Glutamic Acid	2		
+Glutamine	3		
+Glycine		12		
+Histidine	1		
+Isoleucine	6		
+Leucine		8		
+Lysine		6		
+Methionine	2		
+Phenylalanine	3		
+Proline		2		
+Serine		10		
+Threonine	7		
+Tryptophan	6		
+Tyrosine	3		
+Valine		6		
+-----------------------------------------------------------------------
+Total Number of Residue	129		
+Total Number of atoms	1961		
+Total MODELS	50                                                                  		
+
+-----------------------------------------------------------------------
+Helix information is below:- 
+1 helix starts ARG and end GLY of length 12
+2 helix starts SER and end ASN of length 14
+3 helix starts CYS and end LEU of length 5
+4 helix starts ILE and end ASP of length 14
+5 helix starts ALA and end CYS of length 6
+6 helix starts ASP and end ILE of length 6
+
+-----------------------------------------------------------------------
+Sheets information is below:- 
+1 sheet has 2 stands 
+-----------------------------------------------------------------------
+Total SS bonds 	4		
